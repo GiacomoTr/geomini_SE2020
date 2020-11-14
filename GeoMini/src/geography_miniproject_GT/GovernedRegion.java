@@ -2,16 +2,16 @@ package geography_miniproject_GT;
 
 public abstract class GovernedRegion {
 	
-	private String countryName;
+	private String Name;
 	private double area;
 	private int population;
 	protected enum formOfGov {Democracy, Republic, Monarchy}
 	
-	public String getCountryName() {
-		return countryName;
+	public String getName() {
+		return Name;
 	}
-	public void setCountryName(String countryName) {
-		this.countryName = countryName;
+	public void setName(String Name) {
+		this.Name = Name;
 	}
 	
 	public double getArea() {
