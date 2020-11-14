@@ -9,40 +9,27 @@ Copyright 2020 Giacomo Travaglione
 
 **List of Features:**
 
--Create new File
-  -Choose Name of File
-  -Area and Population Validation of Integers
-  -File will not be saved if User Input is incomplete OR incorrect (e.g. String in Int Field)
-  
--Clear All Fields
+**Creating Files**
+Create new File, Choose Name of File, Area and Population Validation of Integers, File will not be saved if User Input is incomplete OR incorrect (e.g. String in Int Field)
 
--Read and Update Existing File "Open File"
-  -Type in File Name
-  -"Load Existing"
-  -Contents loaded into corresponding Fields in "Create View"
-  -Editing of values possible
-  -Save changes to same file name (override) OR define new file name and save a copy
+**Reading & Updating existing Files "Open File"**
+Type in File Name, Contents load into corresponding Fields in "Create View", Updating of values possible, Save changes to same file name (override) OR define new file name and save a copy
+ 
+**Deleting Files**
+Enter File Name, Delete File from hard drive, if file sucessfully deleted, confirmation appears, if unsucessful, error is displayed.
   
--Delete File
-  -Type in File Name 
-  -Delete File from hard drive
-  -if file sucessfully deleted, confirmation appears
-  -if unsucessful, error is displayed
-  
--Quit Application
+**Additional Buttons**
+Clear All Fields, Quit Application
 
--File Structure
-  -Files are accessible after restarting Application or IDE
-  -User friendly ID via file name
-  -Every dataset is saved to a separate file
+**File Structure**
+Files are accessible after restarting Application or IDE, User friendly ID via file name, Every dataset is saved to a separate file
   
--Usability and GUI
-  -Minimalist Structure
-  -Custom App Icon
-  -(A little bit) Responsive
-  -PromptText in all TextFields to avoid false Input by user
-  -Files saved permanently = convenience
-  -Area and Population show as invalid upon wrong data entry
+**Usability and GUI**
+Minimalist Structure, Custom App Icon, (A little bit) Responsive, PromptText in all TextFields to avoid false Input by user, Files saved permanently = convenience, Area and Population show as invalid upon wrong data entry
+
+Please get in touch with me if something should be unclear.
+
+Happy grading, Giacomo Travaglione
   
   
   
