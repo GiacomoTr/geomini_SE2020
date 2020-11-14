@@ -27,6 +27,7 @@ Files are accessible after restarting Application or IDE, User friendly ID via f
 **Usability and GUI**<br>
 Minimalist Structure, Custom App Icon, (A little bit) Responsive, PromptText in all TextFields to avoid false Input by user, Files saved permanently = convenience, Area and Population show as invalid upon wrong data entry
 <br>
+
 Please get in touch with me if something should be unclear.<br>
 
 Happy grading, Giacomo Travaglione
