@@ -12,22 +12,22 @@ Copyright 2020 Giacomo Travaglione
 **Creating Files** <br>
 Create new File, Choose Name of File, Area and Population Validation of Integers, File will not be saved if User Input is incomplete OR incorrect (e.g. String in Int Field)
 
-**Reading & Updating existing Files "Open File"**
+**Reading & Updating existing Files "Open File"**<br>
 Type in File Name, Contents load into corresponding Fields in "Create View", Updating of values possible, Save changes to same file name (override) OR define new file name and save a copy
  
-**Deleting Files**
+**Deleting Files**<br>
 Enter File Name, Delete File from hard drive, if file sucessfully deleted, confirmation appears, if unsucessful, error is displayed.
   
-**Additional Buttons**
+**Additional Buttons**<br>
 Clear All Fields, Quit Application
 
-**File Structure**
+**File Structure**<br>
 Files are accessible after restarting Application or IDE, User friendly ID via file name, Every dataset is saved to a separate file
   
-**Usability and GUI**
+**Usability and GUI**<br>
 Minimalist Structure, Custom App Icon, (A little bit) Responsive, PromptText in all TextFields to avoid false Input by user, Files saved permanently = convenience, Area and Population show as invalid upon wrong data entry
-
-Please get in touch with me if something should be unclear.
+<br>
+Please get in touch with me if something should be unclear.<br>
 
 Happy grading, Giacomo Travaglione
   
