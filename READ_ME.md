@@ -9,7 +9,7 @@ Copyright 2020 Giacomo Travaglione
 
 **List of Features:**
 
-**Creating Files**
+**Creating Files** <br>
 Create new File, Choose Name of File, Area and Population Validation of Integers, File will not be saved if User Input is incomplete OR incorrect (e.g. String in Int Field)
 
 **Reading & Updating existing Files "Open File"**
